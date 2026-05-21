@@ -265,7 +265,7 @@ font-bold
 "
 >
 
-REGISTER
+REGISTRATI
 
 </button>
 
